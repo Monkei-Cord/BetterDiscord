@@ -1,0 +1,15 @@
+/**
+ * @name Monkei_Cord_Addon-messages
+ * @version 1.0.4
+ * @description An add-on theme to revert the new messages for Monkei-Cord
+ * @author Descendo
+ * 
+ * @website http://github.com/Monkei-Cord
+ * @source https://github.com/Monkei-Cord/BetterDiscord/blob/master/Themes/Material-Discord/css/addons/messages/Material-Discord_addon-messages.theme.css
+ */
+
+ @import url(https://raw.githubusercontent.com/Monkei-Cord/BetterDiscord/main/Themes/Material-Discord/css/addons/messages/source.css);
+
+:root {
+  --message-radius: 5px;
+}

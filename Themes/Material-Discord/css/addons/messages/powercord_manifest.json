@@ -1,0 +1,8 @@
+{
+    "name": "Monkei-Cord_Addon-messages",
+    "description": "An add-on theme to revert the new messages for Monkei-Cord",
+    "version": "1.0.4",
+    "author": "Descendo",
+    "theme": "Material-Discord_addon-messages.theme.css",
+    "license": "MIT"
+}

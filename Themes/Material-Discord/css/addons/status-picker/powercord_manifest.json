@@ -1,0 +1,8 @@
+{
+    "name": "Monkei_Cord_Addon-status_picker",
+    "description": "An add-on theme to bring the status picker from Monkei-Cord",
+    "version": "1.0",
+    "author": "Descendo",
+    "theme": "Material-Discord_addon-status-picker.theme.css",
+    "license": "MIT"
+}

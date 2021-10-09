@@ -1,0 +1,8 @@
+{
+    "name": "Monkei_Cord_Addon-icons",
+    "description": "An add-on theme to revert to solid icons for Monkei-Cord",
+    "version": "1.0.4",
+    "author": "Descendo",
+    "theme": "Material-Discord_addon-icons.theme.css",
+    "license": "MIT"
+}

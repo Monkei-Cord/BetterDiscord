@@ -1,0 +1,11 @@
+/**
+ * @name Monkei_Cord_Addon-icons
+ * @version 1.0.1
+ * @description An add-on theme to revert to solid icons for Monkei-Cord
+ * @author Descendo
+ * 
+ * @website http://github.com/Monkei-Cord
+ * @source https://github.com/Monkei-Cord/BetterDiscord/blob/master/Themes/Material-Discord/css/addons/icons/Material-Discord_addon-icons.theme.css
+ */
+
+@import url(https://raw.githubusercontent.com/Monkei-Cord/BetterDiscord/main/Themes/Material-Discord/css/addons/icons/source.css);

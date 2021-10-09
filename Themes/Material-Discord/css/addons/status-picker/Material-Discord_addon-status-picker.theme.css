@@ -1,0 +1,20 @@
+/**
+ * @name Monkei_Cord_Addon-status_picker
+ * @version 1.0
+ * @description An add-on theme to bring the status picker from Monkei-Cord
+ * @author Descendo
+ * 
+ * @website http://github.com/Monkei-Cord
+ * @source https://github.com/Monkei-Cord/BetterDiscord/blob/master/Themes/Material-Discord/css/addons/status-picker/Material-Discord_addon-status-picker.theme.css
+ */
+
+@import url(https://raw.githubusercontent.com/Monkei-Cord/BetterDiscord/main/Themes/Material-Discord/css/addons/status-picker/source.css);
+
+:root {
+  --default-animation: cubic-bezier(0.4,0,0.2,1);
+  --default-time: 250ms;
+  --status-online: 67,181,129;
+  --status-idle: 250,166,26;
+  --status-dnd: 240,71,71;
+  --status-invisibile: 116,127,141;
+}
